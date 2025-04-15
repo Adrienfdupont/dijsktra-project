@@ -12,7 +12,7 @@
             },
             "properties": {
                 "codes": ["LFAK", "LFQO"],
-                "weight": 10
+                "weight": 18
             }
         },
         {
@@ -40,7 +40,7 @@
             },
             "properties": {
                 "codes": ["LFYG", "LFQJ"],
-                "weight": 12
+                "weight": 16
             }
         },
         {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "codes": ["LFAK", "LFQJ"],
-                "weight": 20
+                "weight": 40
             }
         },
         {
@@ -68,7 +68,7 @@
             },
             "properties": {
                 "codes": ["LFYG", "LFAK"],
-                "weight": 18
+                "weight": 36
             }
         },
         {
@@ -82,7 +82,7 @@
             },
             "properties": {
                 "codes": ["LFQO", "LFQJ"],
-                "weight": 15
+                "weight": 20
             }
         }
     ]

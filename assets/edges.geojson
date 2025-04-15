@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [2.5503, 51.0408],
+                    [3.0756, 50.6872]
+                ]
+            },
+            "properties": {
+                "codes": ["LFAK", "LFQO"],
+                "weight": 10
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [3.265, 50.1428],
+                    [3.0756, 50.6872]
+                ]
+            },
+            "properties": {
+                "codes": ["LFYG", "LFQO"],
+                "weight": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [3.265, 50.1428],
+                    [4.03, 50.3083]
+                ]
+            },
+            "properties": {
+                "codes": ["LFYG", "LFQJ"],
+                "weight": 12
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [2.5503, 51.0408],
+                    [4.03, 50.3083]
+                ]
+            },
+            "properties": {
+                "codes": ["LFAK", "LFQJ"],
+                "weight": 20
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [3.265, 50.1428],
+                    [2.5503, 51.0408]
+                ]
+            },
+            "properties": {
+                "codes": ["LFYG", "LFAK"],
+                "weight": 18
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [3.0756, 50.6872],
+                    [4.03, 50.3083]
+                ]
+            },
+            "properties": {
+                "codes": ["LFQO", "LFQJ"],
+                "weight": 15
+            }
+        }
+    ]
+}

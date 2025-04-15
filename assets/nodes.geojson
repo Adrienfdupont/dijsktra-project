@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.265, 50.1428]
+            },
+            "properties": {
+                "name": "Aérodrome de Cambrai-Niergnies",
+                "code": "LFYG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.5503, 51.0408]
+            },
+            "properties": {
+                "name": "Aérodrome de Dunkerque - Les Moëres",
+                "code": "LFAK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.0756, 50.6872]
+            },
+            "properties": {
+                "name": "Aérodrome de Lille - Marcq-en-Barœul",
+                "code": "LFQO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [4.03, 50.3083]
+            },
+            "properties": {
+                "name": "Aérodrome de Maubeuge - Élesmes",
+                "code": "LFQJ"
+            }
+        }
+    ]
+}

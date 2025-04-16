@@ -11,7 +11,7 @@ class Line:
 
     def draw(self, screen):
         pygame.draw.line(screen, self._color, self._pos1, self._pos2, LINE_WIDTH)
-        font = pygame.font.SysFont(None, LINE_FONT_SIZE)
+        font = pygame.font.SysFont(None, FONT_SIZE)
         text = font.render(str(self._weight), True, self._color)
         text_rect = text.get_rect(center=((self._pos1[0] + self._pos2[0]) // 2, (self._pos1[1] + self._pos2[1]) // 2))
         

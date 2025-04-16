@@ -44,6 +44,28 @@
                 "name": "Aérodrome de Maubeuge - Élesmes",
                 "code": "LFQJ"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [2.64, 50.6167]
+            },
+            "properties": {
+                "name": "Aéroport de Merville - Calonne",
+                "code": "LFQT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [3.4656, 50.3247]
+            },
+            "properties": {
+                "name": "Aérodrome de Valenciennes - Denain",
+                "code": "LFAV"
+            }
         }
     ]
 }

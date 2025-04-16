@@ -1,7 +1,7 @@
 import pygame
 import os
 from src.settings import *
-from src.graph_manager import GraphManager
+from src.graph_manager import Graph_manager
 
 class App:
     def __init__(self):
@@ -14,7 +14,7 @@ class App:
         self.background = pygame.image.load(os.path.join('assets', 'nord_map_945x768.png'));
         self.background = pygame.transform.scale(self.background, (WIDTH, HEIGHT))
 
-        self.graph_manager = GraphManager()
+        self.graph_manager = Graph_manager()
 
     def run(self):
         while self.running:

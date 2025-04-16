@@ -9,7 +9,7 @@ class Point:
 
     def draw(self, screen):
         pygame.draw.circle(screen, self._color, self.pos, POINT_RADIUS)
-        font = pygame.font.SysFont(None, POINT_FONT_SIZE)
+        font = pygame.font.SysFont(None, FONT_SIZE)
         text = font.render(str(self._code), True, self._color)
         text_rect = text.get_rect(left=self.pos[0]+5, top=self.pos[1]+5)
 

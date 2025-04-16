@@ -6,6 +6,7 @@ from src.graph_manager import GraphManager
 class App:
     def __init__(self):
         pygame.init()
+        pygame.display.set_caption(WINDOW_TITLE)
         self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
         self.clock = pygame.time.Clock()
         self.running = True
@@ -13,7 +14,7 @@ class App:
         self.background = pygame.image.load(os.path.join('assets', 'nord_map_945x768.png'));
         self.background = pygame.transform.scale(self.background, (WIDTH, HEIGHT))
 
-        self.graph = GraphManager()
+        self.graph_manager = GraphManager()
 
     def run(self):
         while self.running:
@@ -26,12 +27,15 @@ class App:
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 self.running = False
+            elif event.type == pygame.MOUSEBUTTONDOWN:
+                if event.button == 1:
+                    self.graph_manager.handle_click(event.pos)
 
     def update(self):
         pass
 
     def draw(self):
-        self.screen.fill((20, 20, 20))
+        self.screen.fill(BG_COLOR)
         self.screen.blit(self.background, (0, 0))
-        self.graph.draw(self.screen)
+        self.graph_manager.draw(self.screen)
         pygame.display.flip()

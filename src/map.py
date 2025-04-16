@@ -1,3 +1,4 @@
+import pygame
 import json
 import os
 from src.point import Point
@@ -7,8 +8,8 @@ from src.settings import *
 
 class Map:
     def __init__(self):
-        self._points = []
-        self._lines = []
+        self._points = pygame.sprite.Group()
+        self._lines = pygame.sprite.Group()
         self._user_selected_points = []
         self._graph = Graph()
 
@@ -17,7 +18,7 @@ class Map:
             pos = self.geojson_to_surface(point['geometry']['coordinates'])
             code = point['properties']['code']
             point = Point(code, pos)
-            self._points.append(point)
+            self._points.add(point)
             self._graph.add_node(code)
 
         line_json = json.load(open(os.path.join('assets', 'lines.geojson')))
@@ -28,7 +29,7 @@ class Map:
             weight = line['properties']['weight']
             
             line = Line(codes, weight, pos1, pos2)
-            self._lines.append(line)
+            self._lines.add(line)
             self._graph.add_edge(codes[0], codes[1], weight)
             self._graph.add_edge(codes[1], codes[0], weight)
 
@@ -52,14 +53,13 @@ class Map:
             return
 
         for point in self._points:
-            if point.get_x() - POINT_RADIUS <= pos[0] <= point.get_x() + POINT_RADIUS and \
-               point.get_y() - POINT_RADIUS <= pos[1] <= point.get_y() + POINT_RADIUS:
+            if point.get_left() < pos[0] < point.get_right() and point.get_top() < pos[1] < point.get_bottom():
                 if point.get_code() not in self._user_selected_points:
                     self._user_selected_points.append(point.get_code())
                     point.set_color(SELECTED_POINT_COLOR)
                 else:
                     self._user_selected_points.remove(point.get_code())
-                    point.set_color(POINT_COLOR)
+                    point.set_color(FONT_COLOR)
                 break
         if len(self._user_selected_points) == 2:
             self.show_shortest_path()        
@@ -77,5 +77,5 @@ class Map:
         for line in self._lines:
             line.set_color(LINE_COLOR)
         for point in self._points:
-            point.set_color(POINT_COLOR)
+            point.set_color(FONT_COLOR)
         self._user_selected_points = []

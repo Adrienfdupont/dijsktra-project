@@ -5,7 +5,7 @@ from src.line import Line
 from src.settings import *
 from src.priority_queue import PriorityQueue
 
-class GraphManager:
+class Graph_manager:
     def __init__(self):
         self.points = []
         self.lines = []

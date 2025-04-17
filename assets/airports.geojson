@@ -1,0 +1,1574 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.59,
+          44.17
+        ]
+      },
+      "properties": {
+        "name": "AGEN-LA-GARENNE",
+        "code": "LFBA",
+        "departement": "47",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8,
+          41.92
+        ]
+      },
+      "properties": {
+        "name": "AJACCIO-NAPOLEON-BONAPARTE",
+        "code": "LFKJ",
+        "departement": "20",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12,
+          43.91
+        ]
+      },
+      "properties": {
+        "name": "ALBI-LE-SEQUESTRE",
+        "code": "LFCI",
+        "departement": "81",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.31,
+          47.56
+        ]
+      },
+      "properties": {
+        "name": "ANGERS-MARCE",
+        "code": "LFJR",
+        "departement": "49",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.22,
+          45.73
+        ]
+      },
+      "properties": {
+        "name": "ANGOULEME-BRIE-CHAMPNIERS",
+        "code": "LFBU",
+        "departement": "16",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11,
+          45.93
+        ]
+      },
+      "properties": {
+        "name": "ANNECY-MEYTHET",
+        "code": "LFLP",
+        "departement": "74",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.42,
+          44.9
+        ]
+      },
+      "properties": {
+        "name": "AURILLAC",
+        "code": "LFLW",
+        "departement": "15",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.57,
+          47.8
+        ]
+      },
+      "properties": {
+        "name": "AUXERRE-BRANCHES",
+        "code": "LFLA",
+        "departement": "89",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9,
+          43.91
+        ]
+      },
+      "properties": {
+        "name": "AVIGNON-CAUMONT",
+        "code": "LFMV",
+        "departement": "84",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.48,
+          42.55
+        ]
+      },
+      "properties": {
+        "name": "BASTIA-PORETTA",
+        "code": "LFKB",
+        "departement": "20",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.11,
+          49.45
+        ]
+      },
+      "properties": {
+        "name": "BEAUVAIS-TILLE",
+        "code": "LFOB",
+        "departement": "60",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.52,
+          44.82
+        ]
+      },
+      "properties": {
+        "name": "BERGERAC-ROUMANIERE",
+        "code": "LFBE",
+        "departement": "24",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.35,
+          43.32
+        ]
+      },
+      "properties": {
+        "name": "BEZIERS-VIAS",
+        "code": "LFMU",
+        "departement": "34",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.53,
+          43.47
+        ]
+      },
+      "properties": {
+        "name": "BIARRITZ-BAYONNE-ANGLET",
+        "code": "LFBZ",
+        "departement": "64",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72,
+          44.83
+        ]
+      },
+      "properties": {
+        "name": "BORDEAUX-MERIGNAC",
+        "code": "LFBD",
+        "departement": "33",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38,
+          47.06
+        ]
+      },
+      "properties": {
+        "name": "BOURGES",
+        "code": "LFLD",
+        "departement": "18",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.42,
+          48.45
+        ]
+      },
+      "properties": {
+        "name": "BREST-BRETAGNE",
+        "code": "LFRB",
+        "departement": "29",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.48,
+          45.04
+        ]
+      },
+      "properties": {
+        "name": "BRIVE-VALLEE-DE-DORDOGNE-",
+        "code": "LFSL",
+        "departement": "20",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.45,
+          49.17
+        ]
+      },
+      "properties": {
+        "name": "CAEN-CARPIQUET",
+        "code": "LFRK",
+        "departement": "14",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44,
+          44.45
+        ]
+      },
+      "properties": {
+        "name": "CAHORS-LALBENQUE",
+        "code": "LFCC",
+        "departement": "46",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86,
+          50.95
+        ]
+      },
+      "properties": {
+        "name": "CALAIS-DUNKERQUE",
+        "code": "LFAC",
+        "departement": "62",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.79,
+          42.52
+        ]
+      },
+      "properties": {
+        "name": "CALVI-ST-CATHERINE",
+        "code": "LFKC",
+        "departement": "20",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.96,
+          43.55
+        ]
+      },
+      "properties": {
+        "name": "CANNES-MANDELIEU",
+        "code": "LFMD",
+        "departement": "06",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.31,
+          43.22
+        ]
+      },
+      "properties": {
+        "name": "CARCASSONNE-SALVAZA",
+        "code": "LFMK",
+        "departement": "11",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29,
+          43.55
+        ]
+      },
+      "properties": {
+        "name": "CASTRES-MAZAMET",
+        "code": "LFCK",
+        "departement": "81",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21,
+          48.77
+        ]
+      },
+      "properties": {
+        "name": "CHALONS-VATRY",
+        "code": "LFOK",
+        "departement": "51",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.88,
+          45.64
+        ]
+      },
+      "properties": {
+        "name": "CHAMBERY-AIX-LES-BAINS",
+        "code": "LFLB",
+        "departement": "73",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.72,
+          46.86
+        ]
+      },
+      "properties": {
+        "name": "CHATEAUROUX-DEOLS",
+        "code": "LFLX",
+        "departement": "36",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.48,
+          49.65
+        ]
+      },
+      "properties": {
+        "name": "CHERBOURG-MAUPERTUS",
+        "code": "LFRC",
+        "departement": "50",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.89,
+          47.08
+        ]
+      },
+      "properties": {
+        "name": "CHOLET-LE-PONTREAU",
+        "code": "LFOU",
+        "departement": "49",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.16,
+          45.79
+        ]
+      },
+      "properties": {
+        "name": "CLERMONT-FERRAND-CLERMONT-FERRAND/AUVERGNE",
+        "code": "LFLC",
+        "departement": "63",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.36,
+          48.11
+        ]
+      },
+      "properties": {
+        "name": "COLMAR-HOUSSEN",
+        "code": "LFGA",
+        "departement": "68",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.16,
+          49.36
+        ]
+      },
+      "properties": {
+        "name": "DEAUVILLE-ST-GATIEN",
+        "code": "LFRG",
+        "departement": "14",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.09,
+          47.27
+        ]
+      },
+      "properties": {
+        "name": "DIJON-LONGVIC",
+        "code": "LFSD",
+        "departement": "21",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.08,
+          48.59
+        ]
+      },
+      "properties": {
+        "name": "DINARD-PLEURTUIT-ST-MALO",
+        "code": "LFRD",
+        "departement": "35",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.43,
+          47.04
+        ]
+      },
+      "properties": {
+        "name": "DOLE-TAVAUX",
+        "code": "LFGJ",
+        "departement": "39",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07,
+          48.33
+        ]
+      },
+      "properties": {
+        "name": "EPINAL-MIRECOURT",
+        "code": "LFSG",
+        "departement": "88",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1,
+          41.5
+        ]
+      },
+      "properties": {
+        "name": "FIGARI-SUD-CORSE",
+        "code": "LFKF",
+        "departement": "20",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33,
+          45.36
+        ]
+      },
+      "properties": {
+        "name": "GRENOBLE-ISERE",
+        "code": "LFLS",
+        "departement": "38",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.39,
+          46.72
+        ]
+      },
+      "properties": {
+        "name": "ILE-D'YEU-LE-GRAND-PHARE",
+        "code": "LFEY",
+        "departement": "85",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2,
+          46.18
+        ]
+      },
+      "properties": {
+        "name": "LA-ROCHELLE-ILE-DE-RE",
+        "code": "LFBH",
+        "departement": "17",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47,
+          48.76
+        ]
+      },
+      "properties": {
+        "name": "LANNION",
+        "code": "LFRO",
+        "departement": "22",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.74,
+          48.03
+        ]
+      },
+      "properties": {
+        "name": "LAVAL-ENTRAMMES",
+        "code": "LFOV",
+        "departement": "53",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09,
+          49.53
+        ]
+      },
+      "properties": {
+        "name": "LE-HAVRE-OCTEVILLE-SUR-MER",
+        "code": "LFOH",
+        "departement": "76",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.2,
+          47.95
+        ]
+      },
+      "properties": {
+        "name": "LE-MANS-ARNAGE",
+        "code": "LFRM",
+        "departement": "72",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.76,
+          45.08
+        ]
+      },
+      "properties": {
+        "name": "LE-PUY-LOUDES",
+        "code": "LFHP",
+        "departement": "43",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.63,
+          50.51
+        ]
+      },
+      "properties": {
+        "name": "LE-TOUQUET-PARIS-PLAGE",
+        "code": "LFAT",
+        "departement": "62",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.09,
+          50.56
+        ]
+      },
+      "properties": {
+        "name": "LILLE-LESQUIN",
+        "code": "LFQQ",
+        "departement": "59",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.18,
+          45.86
+        ]
+      },
+      "properties": {
+        "name": "LIMOGES-BELLEGARDE",
+        "code": "LFBL",
+        "departement": "87",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.44,
+          47.76
+        ]
+      },
+      "properties": {
+        "name": "LORIENT-LANN-BIHOUE",
+        "code": "LFRH",
+        "departement": "56",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.94,
+          45.73
+        ]
+      },
+      "properties": {
+        "name": "LYON-BRON-BRON",
+        "code": "LFLY",
+        "departement": "69",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.08,
+          45.73
+        ]
+      },
+      "properties": {
+        "name": "LYON-SAINT-EXUPERY",
+        "code": "LFLL",
+        "departement": "69",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.21,
+          43.44
+        ]
+      },
+      "properties": {
+        "name": "MARSEILLE-PROVENCE",
+        "code": "LFML",
+        "departement": "13",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62,
+          45.86
+        ]
+      },
+      "properties": {
+        "name": "MEGEVE-MEGEVE",
+        "code": "LFHM",
+        "departement": "74",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25,
+          48.98
+        ]
+      },
+      "properties": {
+        "name": "METZ-NANCY-LORRAINE",
+        "code": "LFJL",
+        "departement": "57",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36,
+          46.23
+        ]
+      },
+      "properties": {
+        "name": "MONTLUCON-GUERET",
+        "code": "LFBK",
+        "departement": "03",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.96,
+          43.58
+        ]
+      },
+      "properties": {
+        "name": "MONTPELLIER-MEDITERRANEE",
+        "code": "LFMT",
+        "departement": "34",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82,
+          48.6
+        ]
+      },
+      "properties": {
+        "name": "MORLAIX-PLOUJEAN",
+        "code": "LFRU",
+        "departement": "29",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.53,
+          47.59
+        ]
+      },
+      "properties": {
+        "name": "BALE-MULHOUSE",
+        "code": "LFSB",
+        "departement": "68",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.61,
+          47.16
+        ]
+      },
+      "properties": {
+        "name": "NANTES-ATLANTIQUE",
+        "code": "LFRS",
+        "departement": "44",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.21,
+          43.67
+        ]
+      },
+      "properties": {
+        "name": "NICE-COTE-D'AZUR",
+        "code": "LFMN",
+        "departement": "06",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.42,
+          43.76
+        ]
+      },
+      "properties": {
+        "name": "NIMES-GARONS-",
+        "code": "LFTW",
+        "departement": "30",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.39,
+          46.31
+        ]
+      },
+      "properties": {
+        "name": "NIORT-SOUCHE",
+        "code": "LFBN",
+        "departement": "79",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55,
+          49.01
+        ]
+      },
+      "properties": {
+        "name": "PARIS-CHARLES-DE-GAULLE",
+        "code": "LFPG",
+        "departement": "93",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28,
+          48.82
+        ]
+      },
+      "properties": {
+        "name": "PARIS-ISSY-LES-MOULINEAUX",
+        "code": "LFPI",
+        "departement": "75",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.44,
+          48.97
+        ]
+      },
+      "properties": {
+        "name": "PARIS-LE-BOURGET",
+        "code": "LFPB",
+        "departement": "93",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.38,
+          48.72
+        ]
+      },
+      "properties": {
+        "name": "PARIS-ORLY",
+        "code": "LFPO",
+        "departement": "91",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.42,
+          43.38
+        ]
+      },
+      "properties": {
+        "name": "PAU-PYRENEES",
+        "code": "LFBP",
+        "departement": "64",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.82,
+          45.2
+        ]
+      },
+      "properties": {
+        "name": "PERIGUEUX-BASSILLAC",
+        "code": "LFBX",
+        "departement": "24",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.87,
+          42.74
+        ]
+      },
+      "properties": {
+        "name": "PERPIGNAN-RIVESALTES",
+        "code": "LFMP",
+        "departement": "66",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.31,
+          46.59
+        ]
+      },
+      "properties": {
+        "name": "POITIERS-BIARD",
+        "code": "LFBI",
+        "departement": "86",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.89,
+          41.66
+        ]
+      },
+      "properties": {
+        "name": "PROPRIANO",
+        "code": "LFKO",
+        "departement": "20",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.17,
+          47.98
+        ]
+      },
+      "properties": {
+        "name": "QUIMPER-PLUGUFFAN",
+        "code": "LFRQ",
+        "departement": "29",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.73,
+          48.07
+        ]
+      },
+      "properties": {
+        "name": "RENNES-ST-JACQUES",
+        "code": "LFRN",
+        "departement": "35",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0,
+          46.05
+        ]
+      },
+      "properties": {
+        "name": "ROANNE-RENAISON",
+        "code": "LFLO",
+        "departement": "42",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.98,
+          45.89
+        ]
+      },
+      "properties": {
+        "name": "ROCHEFORT-ST-AGNANT",
+        "code": "LFDN",
+        "departement": "17",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.48,
+          44.41
+        ]
+      },
+      "properties": {
+        "name": "RODEZ-MARCILLAC",
+        "code": "LFCR",
+        "departement": "12",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.18,
+          49.39
+        ]
+      },
+      "properties": {
+        "name": "ROUEN-VALLEE-DE-SEINE",
+        "code": "LFOP",
+        "departement": "76",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.86,
+          48.54
+        ]
+      },
+      "properties": {
+        "name": "SAINT-BRIEUC-ARMOR",
+        "code": "LFRT",
+        "departement": "22",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3,
+          45.53
+        ]
+      },
+      "properties": {
+        "name": "SAINT-ETIENNE-BOUTHEON",
+        "code": "LFMH",
+        "departement": "42",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.16,
+          47.31
+        ]
+      },
+      "properties": {
+        "name": "SAINT-NAZAIRE-MONTOIR",
+        "code": "LFRZ",
+        "departement": "44",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.63,
+          48.54
+        ]
+      },
+      "properties": {
+        "name": "STRASBOURG-ENTZHEIM",
+        "code": "LFST",
+        "departement": "67",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          43.19
+        ]
+      },
+      "properties": {
+        "name": "TARBES-LOURDES-PYRENEES",
+        "code": "LFBT",
+        "departement": "65",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15,
+          43.1
+        ]
+      },
+      "properties": {
+        "name": "HYERES-LE-PALYVESTRE",
+        "code": "LFTH",
+        "departement": "83",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.37,
+          43.63
+        ]
+      },
+      "properties": {
+        "name": "TOULOUSE-BLAGNAC",
+        "code": "LFBO",
+        "departement": "31",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72,
+          47.43
+        ]
+      },
+      "properties": {
+        "name": "TOURS-VAL-DE-LOIRE",
+        "code": "LFOT",
+        "departement": "37",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.07,
+          48.3
+        ]
+      },
+      "properties": {
+        "name": "TROYES-BARBEREY",
+        "code": "LFQB",
+        "departement": "10",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.97,
+          44.92
+        ]
+      },
+      "properties": {
+        "name": "VALENCE-CHABEUIL",
+        "code": "LFLU",
+        "departement": "26",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.47,
+          50.32
+        ]
+      },
+      "properties": {
+        "name": "VALENCIENNES-DENAIN",
+        "code": "LFAV",
+        "departement": "59",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4,
+          46.17
+        ]
+      },
+      "properties": {
+        "name": "VICHY-CHARMEIL",
+        "code": "LFLV",
+        "departement": "03",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.53,
+          16.26
+        ]
+      },
+      "properties": {
+        "name": "PONTE-A-PITRE-LE-RAIZET",
+        "code": "TFFR",
+        "departement": "973",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          61.0,
+          14.59
+        ]
+      },
+      "properties": {
+        "name": "MARTINIQUE-AIMEE-CESAIRE",
+        "code": "TFFF",
+        "departement": "972",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.52,
+          20.89
+        ]
+      },
+      "properties": {
+        "name": "SAINT-DENIS-ROLAND-GARROS",
+        "code": "FMEE",
+        "departement": "974",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.36,
+          4.82
+        ]
+      },
+      "properties": {
+        "name": "CAYENNE-ROCHAMBEAU",
+        "code": "SOCA",
+        "departement": "973",
+        "important": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [3.265, 50.1428]
+      },
+      "properties": {
+          "name": "Aérodrome de Cambrai-Niergnies",
+          "code": "LFYG",
+          "departement": "59",
+          "important": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [2.5503, 51.0408]
+      },
+      "properties": {
+          "name": "Aérodrome de Dunkerque - Les Moëres",
+          "code": "LFAK",
+          "departement": "59",
+          "important": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [3.0756, 50.6872]
+      },
+      "properties": {
+          "name": "Aérodrome de Lille - Marcq-en-Barœul",
+          "code": "LFQO",
+          "departement": "59",
+          "important": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [2.64, 50.6167]
+      },
+      "properties": {
+          "name": "Aéroport de Merville - Calonne",
+          "code": "LFQT",
+          "departement": "59",
+          "important": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+          "type": "Point",
+          "coordinates": [3.4656, 50.3247]
+      },
+      "properties": {
+          "name": "Aérodrome de Valenciennes - Denain",
+          "code": "LFAV",
+          "departement": "59",
+          "important": false
+      }
+    }
+  ]
+}

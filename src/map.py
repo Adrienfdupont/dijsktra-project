@@ -39,17 +39,16 @@ class Map:
                     pos2 = self.geojson_to_surface(other_airport_data['geometry']['coordinates'])
                     codes = (airport_data['properties']['code'], other_airport_data['properties']['code'])
                     
-                    # Calculate the distance between the two points
                     distance = ((pos2[0] - pos1[0]) ** 2 + (pos2[1] - pos1[1]) ** 2) ** 0.5
                     
-                    # Use the distance to determine the weight
                     weight = int(distance / 10)
                     
-                    if weight < 10:
-                        line = Line(codes, weight, pos1, pos2)
-                        self._lines.add(line)
-                        self._graph.add_edge(codes[0], codes[1], weight)
-                        self._graph.add_edge(codes[1], codes[0], weight)
+                    if weight > 10 and self._region['name'] == 'France':
+                        continue
+                    line = Line(codes, weight, pos1, pos2)
+                    self._lines.add(line)
+                    self._graph.add_edge(codes[0], codes[1], weight)
+                    self._graph.add_edge(codes[1], codes[0], weight)
 
     def draw(self, screen):
         if self._visible:

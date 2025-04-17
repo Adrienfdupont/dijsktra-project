@@ -7,7 +7,7 @@ class List:
         self._selected_region = None
 
         for region in regions:
-            font = pygame.font.SysFont(None, FONT_SIZE)
+            font = pygame.font.SysFont(None, LIST_FONT_SIZE)
             text = font.render(region['name'], True, REGION_COLOR)
             rect = text.get_rect()
             rect.center = (WIDTH - 150, 20 + len(self._region_items) * 20)

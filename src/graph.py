@@ -37,6 +37,5 @@ class Graph:
         while current is not None:
             path.insert(0, current)
             current = previous[current]
-            print(path)
         return path
     

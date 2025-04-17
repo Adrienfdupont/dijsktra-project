@@ -9,6 +9,8 @@ class Line(pygame.sprite.Sprite):
         self._pos2 = pos2
         self._weight = weight
         self._color = LINE_COLOR
+        self._alpha = int((self._weight / 50) * 255)
+        self._alpha = max(50, min(255, self._alpha))
 
         font = pygame.font.SysFont(None, FONT_SIZE)
         self._text = font.render(str(self._weight), True, self._color)
@@ -22,7 +24,9 @@ class Line(pygame.sprite.Sprite):
         self._text_bg_rect.center = self._text_rect.center
 
     def draw(self, screen):
-        pygame.draw.line(screen, self._color, self._pos1, self._pos2, LINE_WIDTH)
+        line_surface = pygame.Surface((screen.get_width(), screen.get_height()), pygame.SRCALPHA)
+        pygame.draw.aaline(line_surface, (*self._color, self._alpha), self._pos1, self._pos2)
+        screen.blit(line_surface, (0, 0))
         screen.blit(self._text_bg, self._text_bg_rect)
         screen.blit(self._text, self._text_rect)
     

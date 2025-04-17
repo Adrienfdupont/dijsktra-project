@@ -1,0 +1,142 @@
+[
+    {
+        "name": "France",
+        "departements": ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60","61","62","63","64","65","66","67","68","69","70","71","72","73","74","75","76","77","78","79","80","81","82","83","84","85","86","87","88","89","90","91","92","93","94","95"],
+        "coordinates": {
+            "min_longitude": -5.64,
+            "max_longitude": 9,
+            "min_latitude": 41.37,
+            "max_latitude": 51.09
+        }
+    },
+    {
+        "name": "Auvergne-Rhône-Alpes",
+        "departements": ["01", "03", "07", "15", "26", "38", "42", "43", "63", "69", "73", "74"],
+        "coordinates": {
+            "min_longitude": 2.06,
+            "max_longitude": 7.5,
+            "min_latitude": 44.16,
+            "max_latitude": 46.8
+        }
+    },
+    {
+        "name": "Bourgogne-Franche-Comté",
+        "departements": ["21", "25", "39", "58", "70", "71", "89", "90"],
+        "coordinates": {
+            "min_longitude": 2.5,
+            "max_longitude": 7.19,
+            "min_latitude": 46.0,
+            "max_latitude": 48.5
+        }
+    },
+    {
+        "name": "Bretagne",
+        "departements": ["22", "29", "35", "56"],
+        "coordinates": {
+            "min_longitude": -5.14,
+            "max_longitude": -1.02,
+            "min_latitude": 47.28,
+            "max_latitude": 48.87
+        }
+    },
+    {
+        "name": "Centre-Val de Loire",
+        "departements": ["18", "28", "36", "37", "41", "45"],
+        "coordinates": {
+            "min_longitude": 0.0,
+            "max_longitude": 3.5,
+            "min_latitude": 46.0,
+            "max_latitude": 48.5
+        }
+    },
+    {
+        "name": "Corse",
+        "departements": ["2A", "2B"],
+        "coordinates": {
+            "min_longitude": 8.5,
+            "max_longitude": 9.5,
+            "min_latitude": 41.3,
+            "max_latitude": 43.0
+        }
+    },
+    {
+        "name": "Grand Est",
+        "departements": ["08", "10", "51", "52", "54", "55", "57", "67", "68", "88"],
+        "coordinates": {
+            "min_longitude": 3.38,
+            "max_longitude": 8.23,
+            "min_latitude": 47.5,
+            "max_latitude": 50.17
+        }
+    },
+    {
+        "name": "Hauts-de-France",
+        "departements": ["02", "59", "60", "62", "80"],
+        "coordinates": {
+            "min_longitude": 1.38,
+            "max_longitude": 4.23,
+            "min_latitude": 47.62,
+            "max_latitude": 51.29
+        }
+    },
+    {
+        "name": "Île-de-France",
+        "departements": ["75", "77", "78", "91", "92", "93", "94", "95"],
+        "coordinates": {
+            "min_longitude": 1.45,
+            "max_longitude": 3.56,
+            "min_latitude": 48.12,
+            "max_latitude": 49.24
+        }
+    },
+    {
+        "name": "Normandie",
+        "departements": ["14", "27", "50", "61", "76"],
+        "coordinates": {
+            "min_longitude": -1.5,
+            "max_longitude": 1.5,
+            "min_latitude": 48.0,
+            "max_latitude": 49.5
+        }
+    },
+    {
+        "name": "Nouvelle-Aquitaine",
+        "departements": ["16", "17", "19", "23", "24", "33", "40", "47", "64", "79", "86", "87"],
+        "coordinates": {
+            "min_longitude": -1.79,
+            "max_longitude": 2.61,
+            "min_latitude": 42.78,
+            "max_latitude": 47.18
+        }
+    },
+    {
+        "name": "Occitanie",
+        "departements": ["09", "11", "12", "30", "31", "32", "34", "46", "48", "65", "66", "81", "82"],
+        "coordinates": {
+            "min_longitude": 0.5,
+            "max_longitude": 4.5,
+            "min_latitude": 42.5,
+            "max_latitude": 45.0
+        }
+    },
+    {
+        "name": "Pays de la Loire",
+        "departements": ["44", "49", "53", "72", "85"],
+        "coordinates": {
+            "min_longitude": -2.0,
+            "max_longitude": 0.5,
+            "min_latitude": 46.0,
+            "max_latitude": 48.5
+        }
+    },
+    {
+        "name": "Provence-Alpes-Côte d'Azur",
+        "departements": ["04", "05", "06", "13", "83", "84"],
+        "coordinates": {
+            "min_longitude": 4.5,
+            "max_longitude": 7.5,
+            "min_latitude": 43.0,
+            "max_latitude": 45.0
+        }
+    }
+]
